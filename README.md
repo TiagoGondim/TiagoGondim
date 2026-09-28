@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,100:0F1B2E&text=Tiago%20Gondim&fontColor=58A6FF&fontSize=54&fontAlignY=50" alt="Banner Tiago Gondim" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=0D1117&center=true&vCenter=true&width=560&lines=Assistente+Administrativo;Em+Transi%C3%A7%C3%A3o+para+Tecnologia;Evoluindo+para+Desenvolvedor+Backend;Python+%7C+Java;Recife%2C+Pernambuco" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=388BFD&center=true&vCenter=true&width=560&lines=Assistente+Administrativo;Em+Transi%C3%A7%C3%A3o+para+Tecnologia;Evoluindo+para+Desenvolvedor+Backend;Python+%7C+Java;Recife%2C+Pernambuco" alt="Typing animation" />
 </a>
 
 <br/>
