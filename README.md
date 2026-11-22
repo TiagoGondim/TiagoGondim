@@ -19,7 +19,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/BACKEND-388BFD?style=for-the-badge&labelColor=21262D"/>
-<img src="https://img.shields.io/badge/LOCATION-RECIFE%2FPE-8957E5?style=for-the-badge&labelColor=21262D"/>
+<img src="https://img.shields.io/badge/RECIFE%2FPE-8957E5?style=for-the-badge&labelColor=21262D"/>
 
 </div>
 
