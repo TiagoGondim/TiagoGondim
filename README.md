@@ -38,7 +38,7 @@ Curso Análise e Desenvolvimento de Sistemas no SENAC Pernambuco desde março de
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,spring,postgres,docker&theme=dark" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=python,java,javaScript&theme=dark" alt="Tecnologias" />
 
 </div>
 
