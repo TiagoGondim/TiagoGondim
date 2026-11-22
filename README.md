@@ -18,9 +18,8 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-3FB950?style=for-the-badge&labelColor=21262D&logo=github&logoColor=white" alt="Status" />
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-388BFD?style=for-the-badge&labelColor=21262D" alt="Focus" />
-<img src="https://img.shields.io/badge/LOCATION-RECIFE%2FPE-8957E5?style=for-the-badge&labelColor=21262D" alt="Location" />
+<img src="https://img.shields.io/badge/BACKEND-388BFD?style=for-the-badge&labelColor=21262D"/>
+<img src="https://img.shields.io/badge/LOCATION-RECIFE%2FPE-8957E5?style=for-the-badge&labelColor=21262D"/>
 
 </div>
 
